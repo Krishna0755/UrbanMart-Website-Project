@@ -1,16 +1,21 @@
-# React + Vite
+Developed a new Urban-Tech Store E-commerce Website. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📱 UrbanTechStore
+A modern, responsive e-commerce application for premium gadgets.
 
-Currently, two official plugins are available:
+## 🛠 Technologies Used
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS (Responsive Design)
+- **Scripting:** JavaScript (ES6)
+- **Environment:** Node.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 Key Features
+- **Responsive Design:** Optimized for all screen sizes from mobile to desktop.
+- **Hero Section:** High-impact visual entrance with a call-to-action success button.
+- **Category Filtering:** Easily browse Phones, Laptops, and Tablets.
+- **Fast Deployment:** Hosted and optimized on Netlify.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/urban-tech-store.git`
+2. Install dependencies: `npm install`
+3. Run locally: `npm run dev`
