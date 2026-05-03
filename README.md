@@ -16,6 +16,6 @@ A modern, responsive e-commerce application for premium gadgets.
 - **Fast Deployment:** Hosted and optimized on Netlify.
 
 ## 🚀 Getting Started
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/urban-tech-store.git`
+1. Clone the repo: `git clone https://github.com/Krishna0755/Urban-Tech-Store-Project.git`
 2. Install dependencies: `npm install`
 3. Run locally: `npm run dev`
