@@ -5,7 +5,7 @@ A modern, responsive e-commerce application for premium gadgets.
 
 ## 🛠 Technologies Used
 - **Frontend:** React.js
-- **Styling:** CSS, Tailwind CSS (Responsive Design)
+- **Styling:** Bootstrap 5, Tailwind CSS (Responsive Design)
 - **Scripting:** JavaScript (ES6)
 - **Environment:** Node.js
 
